@@ -1,0 +1,4 @@
+catalyst_center:
+  url: https://<catalyst-center-ip-address>
+  username: <username>
+  password: <password>
